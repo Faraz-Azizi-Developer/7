@@ -10,7 +10,7 @@
 
 - Created - 2023-15-8
 
-- Technologies Used - Html , css , , sass , js 
+- Technologies Used - Html , css , , sass
 
 - Role - Frontend
 
